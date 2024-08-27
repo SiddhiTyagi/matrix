@@ -1,6 +1,4 @@
 # matrix
-Basic matrix code in Java
-// Program to store numbers in a matrix of order n & print the total sum of the numbers present in both diagonals
 import java.util.*;
 class matrix {
 public void main(int n) {
